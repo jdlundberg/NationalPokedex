@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Architect\AndroidStudioProjects\NationalPokedex\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Architect\AndroidStudioProjects\NationalPokedex\app\build\intermediates\pre-dexed\debug\classes-d400611e082fff2ce656e7f86a3c7f596b0eee60.jar" />
+    </item>
+    <item
+        jar="C:\Users\Architect\AndroidStudioProjects\NationalPokedex\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Architect\AndroidStudioProjects\NationalPokedex\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-5932069336886aedd9bf3b0b9949d604127e9624.jar" />
+    </item>
+    <item
+        jar="C:\Users\Architect\AndroidStudioProjects\NationalPokedex\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Architect\AndroidStudioProjects\NationalPokedex\app\build\intermediates\pre-dexed\debug\classes-426a42aaf8ba5090406d22c98d075cd2821d70d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Architect\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Architect\AndroidStudioProjects\NationalPokedex\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-8b74ebf49d6108ee29974eb76feabfc3e4569235.jar" />
+    </item>
+
+</items>
